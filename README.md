@@ -1,8 +1,5 @@
 # Hi there! 👋
 
-I'm Benjamin, an aspiring Java Developer with a passion for programming and technology. Currently, I'm studying at AGH University of Science and Technology, where I'm deepening my knowledge in computer science. 
-I'm also interested in frontend development, particularly JavaScript and React.
-
 ## ✨ About Me
 
 - 🎓 I'm studying at AGH University in Kraków, Poland.
